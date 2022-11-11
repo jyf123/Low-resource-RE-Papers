@@ -14,6 +14,7 @@ Note: We show the date the first edition of the paper was submitted to arxiv, bu
 |  Date   | Method  |  Conference   | Title  | Setting  |  Code   | 
 |  ----  | ----  |  ----  | ----  |  ----  |  ----  |
 | 2020-07-05   | REGRAB  |  ICML2020   | [Few-shot Relation Extraction via Bayesian Meta-learning on Relation Graphs](https://arxiv.org/pdf/2007.02387.pdf)  | few-shot  |  None   | 
+| 2021-09-12   | HCRP  |  EMNLP2021   | [Exploring Task Difficulty for Few-Shot Relation Extraction](https://arxiv.org/pdf/2109.05473.pdf)  | few-shot  |  [code](https://github.com/hanjiale/HCRP)   | 
 
 
 
