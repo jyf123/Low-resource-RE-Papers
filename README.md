@@ -7,8 +7,7 @@ Note: We show the date the first edition of the paper was submitted to arxiv, bu
 ## Prompt Learning
 |  Date   | Method  |  Conference   | Title  |  Code   | 
 |  ----  | ----  |  ----  | ----  |  ----  | 
-| 2021-04-15   | KnowPrompt  |  WWW2022   | [KnowPrompt: Knowledge-aware Prompt-tuning with
-Synergistic Optimization for Relation Extraction](https://arxiv.org/pdf/2104.07650.pdf)  |  [Code](https://github.com/zjunlp/KnowPrompt)   | 
+| 2021-04-15   | KnowPrompt  |  WWW2022   | [KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction](https://arxiv.org/pdf/2104.07650.pdf)  |  [Code](https://github.com/zjunlp/KnowPrompt)   | 
 
 
 
